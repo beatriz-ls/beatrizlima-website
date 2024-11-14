@@ -1,0 +1,17 @@
+---
+title: "Portfolio"
+lang: en
+listing:
+  contents: portfolio_projects
+  sort: "date desc"
+  type: grid
+  sort-ui: false
+  filter-ui: false
+  grid-columns: 3
+  grid-item-align: center
+  fields: 
+    - title
+    - image
+page-layout: full
+title-block-banner: true
+---

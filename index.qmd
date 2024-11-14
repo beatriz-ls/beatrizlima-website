@@ -1,0 +1,22 @@
+---
+title: ""
+lang: en
+about: 
+  template: jolla
+  image: images/profile.jpeg
+  image-width: 18em
+  image-shape: round
+  links: 
+    - icon: github
+      text: Github
+      href: https://github.com/beatriz-ls
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/beatriz-lima-silveira/
+    - icon: envelope
+      text: Email
+      href: mailto:beatrizlimasilveira@gmail.com
+---
+
+Welcome to my website! I'm Beatriz Lima {{< fa lemon title="a lemon" >}} , a future statistician and data scientist, currently pursuing an undergraduate degree at Universidade Federal do Espírito Santo. I have a strong interest in public data.
+

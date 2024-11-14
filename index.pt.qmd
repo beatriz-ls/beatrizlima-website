@@ -1,0 +1,21 @@
+---
+title: ""
+lang: pt
+about: 
+  template: jolla
+  image: images/profile.jpeg
+  image-width: 18em
+  image-shape: round
+  links: 
+    - icon: github
+      text: Github
+      href: https://github.com/beatriz-ls
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/beatriz-lima-silveira/
+    - icon: envelope
+      text: Email
+      href: mailto:beatrizlimasilveira@gmail.com
+---
+
+Bem vindo ao meu website! Eu sou Beatriz Lima {{< fa lemon title="a lemon" >}}, futura estatística e ciêntista de dados, atualmente cursando na Universidade Federal do Espirito Santo.

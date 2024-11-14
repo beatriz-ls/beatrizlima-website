@@ -1,0 +1,13 @@
+---
+title: "Bem Vindo ao meu Blog"
+author: "Beatriz Lima Silveira"
+date: "2024-08-04"
+categories: [news]
+lang: pt
+---
+
+This is the first post in a Quarto blog. Welcome!
+
+![](thumbnail.jpg)
+
+Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.

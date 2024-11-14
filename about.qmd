@@ -1,0 +1,102 @@
+---
+title: "About"
+lang: en
+subtitle: "My life so far, interests and goals"
+title-block-banner: true
+---
+
+## {{< fa graduation-cap title="a graduation cap" >}} Data science and me
+
+As a Statistics student at Universidade Federal do Espirito Santo, I have developed strong skills in manipulation, modeling, and interpretation of data across various domains. Currently, I am focused on visualizing public health data related to pregnant women as part of my work at the [Observatório Obstétrico Brasileiro](https://observatorioobstetricobr.org/) developed by [Daslab](https://daslab-ufes.github.io/). I'm actively involved with the [R-Ladies Vix](https://rladies.org/), a group dedicated in promotes gender diversity in the R community.
+
+I'm naturally curious, and I believe my constant desire to understand the world around me is what drew me to this profession.
+
+In addition to studying statistical theories and computational modeling, I'm also learning HTML and CSS to enhance the aesthetic quality of my interactive reports and dashboard panels.
+
+To learn more about the projects I am involved in, please visit the following laboratory/organization websites:
+
+::: column-container
+::: column
+[<img src="images/daslab_logo.png" alt="Daslab Logo" class="daslab_logo"/>](https://daslab-ufes.github.io/)
+:::
+
+::: column
+[<img src="images/oobr_logo.png" alt="Oobr Logo" class="oobr_logo"/>](https://observatorioobstetricobr.org/)
+:::
+:::
+
+::: column-container
+::: column
+[<img src="images/r-ladiesvix_logo.png" alt="R Ladies Logo" class="rladies_logo"/>](https://rladies.org/)
+:::
+
+::: column
+[<img src="images/Rbras_2025_logo.png" alt="RBras Logo" class="rbras_logo"/>](https://www.rbras.org.br/)
+:::
+:::
+
+## {{< fa laptop title="a laptop" >}} Tech Stack
+
+::: column-container
+::: column1
+[<img src="images/R_logo.png" alt="R Logo" class="r_logo"/>](https://www.r-project.org/)
+:::
+
+::: column1
+[<img src="images/python_logo.png" alt="Python Logo" class="python_logo"/>](https://www.python.org/)
+:::
+
+::: column1
+[<img src="images/postgresql_logo.png" alt="SQL Logo" class="sql_logo"/>](https://www.postgresql.org/)
+:::
+:::
+
+::: column-container
+::: column1
+[<img src="images/git_logo.png" alt="Git Logo" class="git_logo"/>](https://git-scm.com/)
+:::
+
+::: column1
+[<img src="images/github_logo.png" alt="Github Logo" class="github_logo"/>](https://www.github.com/)
+:::
+
+::: column1
+[<img src="images/excel_logo.png" alt="Excel Logo" class="excel_logo"/>](https://www.microsoft.com/en-us/microsoft-365/excel)
+:::
+:::
+
+## {{< fa book-open title="a book" >}} Skills
+
+::: column-container
+::: column
+-   Statistical Inference
+-   Exploratory Data Analysis (EDA)
+-   Multivariate Analysis
+-   Hypothesis Testing
+-   Nonparametric Statistics
+-   Regression Analysis
+-   Survival Analysis
+-   Generalized Linear Models
+:::
+
+::: column
+-   Probability Theory
+-   Linear Algebra
+-   Calculus
+-   Operational Research
+-   Stochastic Processes
+-   Bio-inspired search algorithms
+:::
+:::
+
+## {{< fa globe title="a globe" >}} Languages
+
+{{< fa star title="a star" >}} Portuguese - native
+
+{{< fa star title="a star" >}} English - fluent
+
+{{< fa star title="a star" >}} Spanish - basic
+
+## {{< fa lemon title="a lemon" >}} My hobbies
+
+In my (short and increasingly rare) free time from academic and scientific life, you'll find me either picking up a new book to read or crocheting amigurumis. I’m fortunate to live in a coastal city with beautiful landscapes and beaches, where I enjoy going out with friends and family. On weekends, I try to go rollerblading by the beach to clear my mind.

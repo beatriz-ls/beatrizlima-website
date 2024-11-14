@@ -1,0 +1,14 @@
+---
+title: "Poste"
+author: "Beatriz Lima"
+date: "2024-08-07"
+categories: [news, code, analysis]
+image: "image.jpg"
+lang: pt
+---
+
+This is a post with executable code.
+
+```{r}
+1 + 1
+```
