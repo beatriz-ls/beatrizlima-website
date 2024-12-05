@@ -11,7 +11,7 @@ Como estudante de Estatística na Universidade Federal do Espírito Santo, desen
 
 Sou naturalmente curiosa e acredito que meu constante desejo de entender o mundo ao meu redor foi o que me atraiu para essa profissão.
 
-Além de estudar teorias estatísticas e modelagem, também estou aprendendo HTML e CSS para aprimorar a qualidade estética dos meus relatórios interativos e painéis de controle.
+Além de estudar teorias estatísticas e modelagem, também estou aprendendo HTML e CSS para aprimorar a qualidade estética dos meus relatórios interativos e painéis de visualização.
 
 Para saber mais sobre os projetos nos quais estou envolvida, visite os seguintes sites de laboratórios/organizações:
 

@@ -1,0 +1,16 @@
+[
+  {
+    "listing": "/portfolio.html",
+    "items": [
+      "/portfolio_projects/post-with-code/index.html",
+      "/portfolio_projects/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/blog_posts/rladies_chemistry_workshop/index.html",
+      "/blog_posts/quarto_website_tutorial/index.html"
+    ]
+  }
+]

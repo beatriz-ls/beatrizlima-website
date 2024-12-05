@@ -1,0 +1,54 @@
+project:
+  type: website
+
+website:
+  title: "Beatriz Lima"
+  favicon: images/lemon_icon.png
+  navbar:
+    title: "Beatriz Lima"
+    logo: images/lemon_icon.png
+    #logo-alt: "Beatriz Lima"
+    left:
+      - icon: github
+        href: https://github.com/beatriz-ls
+      - icon: linkedin
+        href: https://www.linkedin.com/in/beatriz-lima-silveira/
+      - icon: envelope
+        href: mailto:beatrizlimasilveira@gmail.com
+    right:
+      - text: About
+        href: about.qmd
+      - text: Portfolio
+        href: portfolio.qmd
+      - text: Blog
+        href: blog.qmd
+      - text: CV
+        menu:
+          - text: English
+            href: assets/CV_Beatriz_Lima_en.pdf
+          - text: Português
+            href: assets/CV_Beatriz_Lima_pt.pdf
+  page-footer: 
+    background: light
+    left: Website build with [Quarto](https://quarto.org/){target=_blank}
+    right: Copyright 2024, Beatriz Lima
+    
+format:
+  html:
+    theme: mystyles.scss
+    mainfont: Courier Prime
+    fontawesome: true
+    
+babelquarto:
+  languagecodes:
+  - name: pt
+    text: "Português"
+  - name: en
+    text: "English"
+  mainlanguage: 'en'
+  languages: ['pt']
+title-pt: Beatriz Lima
+description-pt:
+author-pt: Beatriz Lima
+lang: en
+

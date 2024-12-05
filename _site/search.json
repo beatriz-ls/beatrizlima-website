@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "portfolio_projects/welcome/index.html",
+    "href": "portfolio_projects/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "Post With Code\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog_posts/rladies_chemistry_workshop/index.html",
+    "href": "blog_posts/rladies_chemistry_workshop/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Post With Code\n\n\n\n\n\n\n\n\n\n\n\n\nAug 7, 2024\n\n\nBeatriz Lima Silveira\n\n\n\n\n\n\n  \n\n\n\n\nHow i created my website with Quarto\n\n\n\n\n\n\n\n\n\n\n\n\nAug 4, 2024\n\n\nBeatriz Lima Silveira\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "As a Statistics student at Universidade Federal do Espirito Santo, I have developed strong skills in manipulation, modeling, and interpretation of data across various domains. Currently, I am focused on visualizing public health data related to pregnant women as part of my work at the Observatório Obstétrico Brasileiro developed by Daslab. I’m actively involved with the R-Ladies Vix, a group dedicated in promotes gender diversity in the R community.\nI’m naturally curious, and I believe my constant desire to understand the world around me is what drew me to this profession.\nIn addition to studying statistical theories and computational modeling, I’m also learning HTML and CSS to enhance the aesthetic quality of my interactive reports and dashboard panels.\nTo learn more about the projects I am involved in, please visit the following laboratory/organization websites:"
+  },
+  {
+    "objectID": "about.html#fa-graduation-cap-titlea-graduation-cap-data-science-and-me",
+    "href": "about.html#fa-graduation-cap-titlea-graduation-cap-data-science-and-me",
+    "title": "About",
+    "section": "",
+    "text": "As a Statistics student at Universidade Federal do Espirito Santo, I have developed strong skills in manipulation, modeling, and interpretation of data across various domains. Currently, I am focused on visualizing public health data related to pregnant women as part of my work at the Observatório Obstétrico Brasileiro developed by Daslab. I’m actively involved with the R-Ladies Vix, a group dedicated in promotes gender diversity in the R community.\nI’m naturally curious, and I believe my constant desire to understand the world around me is what drew me to this profession.\nIn addition to studying statistical theories and computational modeling, I’m also learning HTML and CSS to enhance the aesthetic quality of my interactive reports and dashboard panels.\nTo learn more about the projects I am involved in, please visit the following laboratory/organization websites:"
+  },
+  {
+    "objectID": "about.html#fa-laptop-titlea-laptop-tech-stack",
+    "href": "about.html#fa-laptop-titlea-laptop-tech-stack",
+    "title": "About",
+    "section": " Tech Stack",
+    "text": "Tech Stack"
+  },
+  {
+    "objectID": "about.html#fa-book-open-titlea-book-skills",
+    "href": "about.html#fa-book-open-titlea-book-skills",
+    "title": "About",
+    "section": " Skills",
+    "text": "Skills\n\n\n\nStatistical Inference\nExploratory Data Analysis (EDA)\nMultivariate Analysis\nHypothesis Testing\nNonparametric Statistics\nRegression Analysis\nSurvival Analysis\nGeneralized Linear Models\n\n\n\n\nProbability Theory\nLinear Algebra\nCalculus\nOperational Research\nStochastic Processes\nBio-inspired search algorithms"
+  },
+  {
+    "objectID": "about.html#fa-globe-titlea-globe-languages",
+    "href": "about.html#fa-globe-titlea-globe-languages",
+    "title": "About",
+    "section": " Languages",
+    "text": "Languages\n Portuguese - native\n English - fluent\n Spanish - basic"
+  },
+  {
+    "objectID": "about.html#fa-lemon-titlea-lemon-my-hobbies",
+    "href": "about.html#fa-lemon-titlea-lemon-my-hobbies",
+    "title": "About",
+    "section": " My hobbies",
+    "text": "My hobbies\nIn my (short and increasingly rare) free time from academic and scientific life, you’ll find me either picking up a new book to read or crocheting amigurumis. I’m fortunate to live in a coastal city with beautiful landscapes and beaches, where I enjoy going out with friends and family. On weekends, I try to go rollerblading by the beach to clear my mind."
+  },
+  {
+    "objectID": "blog_posts/quarto_website_tutorial/index.html",
+    "href": "blog_posts/quarto_website_tutorial/index.html",
+    "title": "How i created my website with Quarto",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Beatriz Lima",
+    "section": "",
+    "text": "Welcome to my website! I’m Beatriz Lima  , a future statistician and data scientist, currently pursuing an undergraduate degree at Universidade Federal do Espírito Santo. I have a strong interest in public data."
+  },
+  {
+    "objectID": "portfolio_projects/post-with-code/index.html",
+    "href": "portfolio_projects/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  }
+]
