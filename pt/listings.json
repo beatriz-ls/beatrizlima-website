@@ -1,0 +1,20 @@
+[
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/blog_posts/rladies_chemistry_workshop/index.pt.html",
+      "/blog_posts/rladies_chemistry_workshop/index.html",
+      "/blog_posts/quarto_website_tutorial/index.pt.html",
+      "/blog_posts/quarto_website_tutorial/index.html"
+    ]
+  },
+  {
+    "listing": "/portfolio.html",
+    "items": [
+      "/portfolio_projects/post-with-code/index.pt.html",
+      "/portfolio_projects/post-with-code/index.html",
+      "/portfolio_projects/welcome/index.pt.html",
+      "/portfolio_projects/welcome/index.html"
+    ]
+  }
+]
