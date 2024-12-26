@@ -15,7 +15,16 @@ website:
         href: https://www.linkedin.com/in/beatriz-lima-silveira/
       - icon: envelope
         href: mailto:beatrizlimasilveira@gmail.com
-    right: []
+    right: 
+      - about.qmd
+      - portfolio.qmd
+      - blog.qmd
+      - text: CV
+        menu:
+          - text: English
+            href: assets/CV_Beatriz_Lima_en.pdf
+          - text: Português
+            href: assets/CV_Beatriz_Lima_pt.pdf
   page-footer: 
     background: light
     left: Website build with [Quarto](https://quarto.org/){target=_blank}
