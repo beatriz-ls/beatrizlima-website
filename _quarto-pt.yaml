@@ -1,0 +1,16 @@
+website:
+  navbar:
+    background: primary
+    right:
+      - text: Sobre Mim
+        href: about.qmd
+      - text: Portfólio
+        href: portfolio.qmd
+      - text: Blog
+        href: blog.qmd
+      - text: CV
+        menu:
+          - text: English
+            href: assets/CV_Beatriz_Lima_en.pdf
+          - text: Português
+            href: assets/CV_Beatriz_Lima_pt.pdf

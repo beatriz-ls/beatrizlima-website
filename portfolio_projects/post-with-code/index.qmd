@@ -1,9 +1,10 @@
 ---
 title: "Post With Code"
-author: "Harlow Malloc"
-date: "2024-08-07"
-categories: [news, code, analysis]
 image: "image.jpg"
+categories: [news, code, analysis]
+subtitle: "texto texo texo texto texo texo texto etxto tetxo texo texto texo"
+author: "Beatriz Lima Silveira"
+date: "2024-08-07"
 lang: en
 ---
 

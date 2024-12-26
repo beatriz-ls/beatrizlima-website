@@ -113,6 +113,101 @@ i {
   border: none;
 }
 
-languages-button:hover {
-  background-color: $rose-taupe; /* Cor ao passar o mouse */
+#languages-button:hover {
+  background-color: $mint-cream; /* Cor ao passar o mouse */
+}
+
+/* Estilos gerais para o card */
+.quarto-grid-item.card {
+  border-radius: 19px; /* Bordas arredondadas */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra */
+  overflow: hidden; /* Evitar overflow */
+  background-color: $mint-cream; /* Cor de fundo */
+  color: $blackcurrant; /* Cor do texto */
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  display: flex;
+  flex-direction: column; /* Garantir ordem de elementos */
+}
+
+/* Efeito hover */
+.quarto-grid-item.card:hover {
+  transform: translateY(-5px); /* Levanta o card */
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+}
+
+/* Imagem */
+.card-img-top img {
+  width: 100%; /* Largura total */
+  height: auto;
+  border-bottom: 3px solid rgba(255, 255, 255, 0.1); /* Separador */
+}
+
+/* Corpo do card */
+.card-body.post-contents {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  gap: 10px; /* Espaçamento entre elementos */
+}
+
+/* Título */
+.card-title.listing-title {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: $blackcurrant;
+  text-align: center;
+  margin: 0;
+}
+
+/* Categorias (botões) */
+.listing-categories {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 5px;
+  order: 2; /* Aparece logo após o título */
+}
+
+.listing-category {
+  background-color: $mint-cream;
+  color: $rose-taupe;
+  padding: 5px 10px;
+  border-radius: 8px;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  cursor: pointer;
+}
+
+.listing-category:hover {
+  background-color: $rose-taupe;
+  color: $mint-cream;
+}
+
+/* Subtítulo */
+.card-subtitle.listing-subtitle {
+  font-size: 1rem;
+  font-weight: 600;
+  color: $blackcurrant;
+  text-align: center;
+  order: 3; /* Subtítulo depois das categorias */
+}
+
+/* Autor e data */
+.card-attribution {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.8rem;
+  margin-top: 10px;
+  text-align: right;
+  order: 4; /* Autor e data por último */
+}
+
+.listing-author {
+  color: $rose-taupe;
+}
+
+.listing-date {
+  font-style: italic;
+  color: $rose-taupe;
 }

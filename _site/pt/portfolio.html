@@ -56,7 +56,7 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-categories','listing-subtitle','listing-image','listing-author','listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
       searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
     };
@@ -115,11 +115,11 @@ ul.task-list li input[type="checkbox"] {
 <ul class="navbar-nav navbar-nav-scroll ms-auto">
 <li class="nav-item">
     <a class="nav-link" href="./about.html" rel="" target="">
- <span class="menu-text">About</span></a>
+ <span class="menu-text">Sobre Mim</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link active" href="./portfolio.html" rel="" target="" aria-current="page">
- <span class="menu-text">Portfolio</span></a>
+ <span class="menu-text">Portfólio</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./blog.html" rel="" target="">
@@ -176,18 +176,25 @@ ul.task-list li input[type="checkbox"] {
 <h5 class="no-anchor card-title listing-title">
 Poste
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('news'); return false;">
+news
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('code'); return false;">
+code
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('analysis'); return false;">
+analysis
 </div>
 </div>
-</a>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Beatriz Lima
 </div>
-<div class="g-col-1" data-index="1" data-categories="news" data-listing-date-sort="1722740400000" data-listing-file-modified-sort="1731609130747" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
-<a href="./portfolio_projects/welcome/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-center">
-<p class="card-img-top"><img src="portfolio_projects%5Cwelcome%5Cthumbnail.jpg" style="height: 150px;" class="thumbnail-image card-img"></p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-bem vindo ao meu Blog
-</h5>
+<div class="listing-date">
+7 de ago. de 2024
+</div>
+</div>
 </div>
 </div>
 </a>

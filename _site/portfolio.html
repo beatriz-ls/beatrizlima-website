@@ -56,7 +56,7 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-categories','listing-subtitle','listing-image','listing-author','listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
       searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
     };
@@ -167,7 +167,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- main -->
 <main class="content quarto-banner-title-block column-page" id="quarto-document-content"><div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="news,code,analysis" data-listing-date-sort="1722999600000" data-listing-file-modified-sort="1731609130747" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="g-col-1" data-index="0" data-categories="news,code,analysis" data-listing-date-sort="1722999600000" data-listing-file-modified-sort="1735236232306" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
 <a href="./portfolio_projects/post-with-code/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-center">
 <p class="card-img-top">
@@ -176,18 +176,28 @@ ul.task-list li input[type="checkbox"] {
 <h5 class="no-anchor card-title listing-title">
 Post With Code
 </h5>
+<div class="card-subtitle listing-subtitle">
+texto texo texo texto texo texo texto etxto tetxo texo texto texo
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('news'); return false;">
+news
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('code'); return false;">
+code
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('analysis'); return false;">
+analysis
 </div>
 </div>
-</a>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Beatriz Lima Silveira
 </div>
-<div class="g-col-1" data-index="1" data-categories="news" data-listing-date-sort="1722740400000" data-listing-file-modified-sort="1731609130748" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
-<a href="./portfolio_projects/welcome/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-center">
-<p class="card-img-top"><img src="portfolio_projects%5Cwelcome%5Cthumbnail.jpg" style="height: 150px;" class="thumbnail-image card-img"></p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Welcome To My Blog
-</h5>
+<div class="listing-date">
+Aug 7, 2024
+</div>
+</div>
 </div>
 </div>
 </a>
