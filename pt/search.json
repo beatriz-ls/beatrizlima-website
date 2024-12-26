@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "portfolio_projects/post-with-code/index.pt.html",
+    "href": "portfolio_projects/post-with-code/index.pt.html",
+    "title": "Poste",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Beatriz Lima",
+    "section": "",
+    "text": "Bem vindo ao meu website! Eu sou Beatriz Lima , futura estatística e ciêntista de dados, atualmente cursando na Universidade Federal do Espirito Santo. Neste site você encontrará meu portfólio de projetos, bem como meu blog sobre assuntos da área."
+  },
+  {
+    "objectID": "blog_posts/quarto_website_tutorial/index.pt.html",
+    "href": "blog_posts/quarto_website_tutorial/index.pt.html",
+    "title": "Como eu criei meu website usando Quarto",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!"
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Portfólio",
+    "section": "",
+    "text": "Poste\n\n\n  \nnews\n  \ncode\n  \nanalysis\n  \n\n\n\nBeatriz Lima\n7 de ago. de 2024\n\n\n\n\n\n\n\n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Como eu criei meu website usando Quarto\n\n\n \n\n\n\n\n\n4 de ago. de 2024\nBeatriz Lima Silveira\n\n\n\n\n\n\n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "blog_posts/quarto_website_tutorial/index.html",
+    "href": "blog_posts/quarto_website_tutorial/index.html",
+    "title": "How i created my website with Quarto",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Sobre Mim",
+    "section": "",
+    "text": "Como estudante de Estatística na Universidade Federal do Espírito Santo, desenvolvi habilidades sólidas em manipulação, modelagem e interpretação de dados em diversos domínios. Atualmente, estou focada na visualização de dados de saúde materno fetal como parte do meu trabalho no Observatório Obstétrico Brasileiro desenvolvido pelo Daslab. Estou ativamente envolvida com o grupo R-Ladies Vix, que promove a diversidade de gênero na comunidade R.\nSou naturalmente curiosa e acredito que meu constante desejo de entender o mundo ao meu redor foi o que me atraiu para essa profissão.\nAlém de estudar teorias estatísticas e modelagem, também estou aprendendo HTML e CSS para aprimorar a qualidade estética dos meus relatórios interativos e painéis de visualização.\nPara saber mais sobre os projetos nos quais estou envolvida, visite os seguintes sites de laboratórios/organizações:"
+  },
+  {
+    "objectID": "about.html#ciência-de-dados-e-eu",
+    "href": "about.html#ciência-de-dados-e-eu",
+    "title": "Sobre Mim",
+    "section": "",
+    "text": "Como estudante de Estatística na Universidade Federal do Espírito Santo, desenvolvi habilidades sólidas em manipulação, modelagem e interpretação de dados em diversos domínios. Atualmente, estou focada na visualização de dados de saúde materno fetal como parte do meu trabalho no Observatório Obstétrico Brasileiro desenvolvido pelo Daslab. Estou ativamente envolvida com o grupo R-Ladies Vix, que promove a diversidade de gênero na comunidade R.\nSou naturalmente curiosa e acredito que meu constante desejo de entender o mundo ao meu redor foi o que me atraiu para essa profissão.\nAlém de estudar teorias estatísticas e modelagem, também estou aprendendo HTML e CSS para aprimorar a qualidade estética dos meus relatórios interativos e painéis de visualização.\nPara saber mais sobre os projetos nos quais estou envolvida, visite os seguintes sites de laboratórios/organizações:"
+  },
+  {
+    "objectID": "about.html#ferramentas",
+    "href": "about.html#ferramentas",
+    "title": "Sobre Mim",
+    "section": " Ferramentas",
+    "text": "Ferramentas"
+  },
+  {
+    "objectID": "about.html#áreas-de-conhecimento",
+    "href": "about.html#áreas-de-conhecimento",
+    "title": "Sobre Mim",
+    "section": " Áreas de conhecimento",
+    "text": "Áreas de conhecimento\n\n\n\nInferência Estatística\nAnálise Exploratória de Dados (EDA)\nAnálise Multivariada\nTeste de Hipóteses\nEstatística Não Paramétrica\nAnálise de Regressão\nAnálise de Sobrevivência\nModelos Lineares Generalizados\n\n\n\n\nProbablidade\nÁlgebra Linear\nCálculo\nPesquisa Operacional\nProcessos Estocásticos\nAlgoritmos de busca bioinspirados"
+  },
+  {
+    "objectID": "about.html#idiomas",
+    "href": "about.html#idiomas",
+    "title": "Sobre Mim",
+    "section": " Idiomas",
+    "text": "Idiomas\n Português - nativo\n Inglês - fluente\n Espanhol - básico\n Libras - básico"
+  },
+  {
+    "objectID": "about.html#meus-hobbies",
+    "href": "about.html#meus-hobbies",
+    "title": "Sobre Mim",
+    "section": " Meus hobbies",
+    "text": "Meus hobbies\nNo meu (pouco e cada vez mais raro) tempo livre da vida acadêmica e científica, você me encontrará lendo um livro ou fazendo crochê de amigurumis. Tenho a sorte de viver em uma cidade costeira com belas paisagens e praias, onde gosto de sair com amigos e família. Nos finais de semana, gosto andar de patins pela praia para clarear a mente."
+  },
+  {
+    "objectID": "portfolio_projects/post-with-code/index.html",
+    "href": "portfolio_projects/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  }
+]

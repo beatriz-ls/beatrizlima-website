@@ -1,0 +1,14 @@
+[
+  {
+    "listing": "/portfolio.html",
+    "items": [
+      "/portfolio_projects/post-with-code/index.html"
+    ]
+  },
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/blog_posts/quarto_website_tutorial/index.html"
+    ]
+  }
+]
