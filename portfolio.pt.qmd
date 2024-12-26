@@ -3,6 +3,8 @@ title: "Portfólio"
 lang: pt
 listing:
   contents: portfolio_projects
+  include: 
+    lang: pt
   sort: "date desc"
   type: grid
   sort-ui: false

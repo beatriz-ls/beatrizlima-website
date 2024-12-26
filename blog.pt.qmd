@@ -4,6 +4,8 @@ lang: pt
 #subtitle: Tutorials, 
 listing:
   contents: blog_posts
+  include: 
+    lang: pt
   sort: "date desc"
   type: default
   sort-ui: false

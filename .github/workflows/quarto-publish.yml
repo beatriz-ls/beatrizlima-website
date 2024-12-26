@@ -59,4 +59,4 @@ jobs:
           git init
           git add .
           git commit -m 'update website'
-          git push https://${{github.actor}}:${{secrets.GITHUB_TOKEN}}@github.com HEAD:gh-pages --force
+          git push https://${{github.actor}}:${{secrets.GITHUB_TOKEN}}@github.com/${{github.repository}}.git HEAD:gh-pages --force
