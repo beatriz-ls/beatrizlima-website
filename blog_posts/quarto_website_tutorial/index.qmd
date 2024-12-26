@@ -2,7 +2,7 @@
 title: "How i created my website with Quarto"
 author: "Beatriz Lima Silveira"
 date: "2024-08-04"
-categories: [tutorial, news]
+categories: [tutorial, R, quarto]
 image: "thumbnail.png"
 lang: en
 ---
